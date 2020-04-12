@@ -1,0 +1,102 @@
+{
+  "id": "98b65cfb-8e8a-43e2-a863-222550887a15",
+  "name": "Extensions",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "condition": "",
+          "title": "BuddyPress Members for Google Maps",
+          "imageUrl": "https://www.wpmapspro.com/wp-content/uploads/2020/01/BuddyPress-Members-compressor.jpg",
+          "buttons": [
+            {
+              "text": "Check it now..",
+              "postback": "https://www.wpmapspro.com/product/buddypress-members-on-google-maps/"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "condition": "",
+          "title": "Contact Form 7 Entries on Google Maps",
+          "subtitle": "Premium plugin for displaying Contact Form 7 submitted entries on google maps",
+          "imageUrl": "https://www.wpmapspro.com/wp-content/uploads/2020/01/Contact-Form-7-min.jpg",
+          "buttons": [
+            {
+              "text": "Check it now...",
+              "postback": "https://www.wpmapspro.com/product/contact-form-7-submissions-to-google-maps/"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "condition": "",
+          "title": "Gravity Form Submissions on Google Maps",
+          "subtitle": "Premium plugin for displaying gravity form entries on google maps",
+          "imageUrl": "https://www.wpmapspro.com/wp-content/uploads/2020/01/Gravity-form-min.jpg",
+          "buttons": [
+            {
+              "text": "Check it now...",
+              "postback": "https://www.wpmapspro.com/product/gravity-form-submission-to-google-maps/"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "condition": "",
+          "title": "WordPress Users on Google Maps",
+          "subtitle": "Premium plugin for displaying wordpress registered users on google maps",
+          "imageUrl": "https://www.wpmapspro.com/wp-content/uploads/2020/01/wordpress-user-min.jpg",
+          "buttons": [
+            {
+              "text": "Check it now...",
+              "postback": "https://www.wpmapspro.com/product/wordpress-users-on-google-maps/"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "condition": "",
+          "title": "",
+          "replies": [
+            "Go to Main Menu"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Google Maps Extensions are :"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

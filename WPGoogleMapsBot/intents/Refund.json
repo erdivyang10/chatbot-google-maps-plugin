@@ -1,0 +1,48 @@
+{
+  "id": "1fb85603-759f-4296-b808-bba30237b6d7",
+  "name": "Refund",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "condition": "",
+          "speech": "So sorry to hear that :( Please submit the refund request at http://codecanyon.net/refund_requests/new and we will proceed as soon as possible"
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "condition": "",
+          "title": "",
+          "replies": [
+            "Go to Main Menu"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "So sorry to hear that :( Please submit the refund request at http://codecanyon.net/refund_requests/new and we will proceed as soon as possible"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

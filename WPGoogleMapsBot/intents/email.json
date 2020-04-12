@@ -1,0 +1,61 @@
+{
+  "id": "c5e0ca17-9025-41ea-beb6-54ba92a30466",
+  "name": "email",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "condition": "",
+          "speech": "You can contact us at hello@flippercode.com and for support please mail us at support@flippercode.com"
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "condition": "",
+          "title": "Contact Us",
+          "buttons": [
+            {
+              "text": "Contact Now",
+              "postback": "https://www.wpmapspro.com/contact/"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "condition": "",
+          "title": "",
+          "replies": [
+            "Go To Main Menu"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "You can contact us at hello@flippercode.com and for support please mail us at support@flippercode.com"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

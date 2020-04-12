@@ -1,0 +1,9 @@
+{
+  "id": "ec865add-0b60-4a2d-9476-d4576c3f0e07",
+  "name": "features",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

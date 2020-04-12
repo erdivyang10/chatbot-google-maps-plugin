@@ -1,0 +1,57 @@
+{
+  "id": "9795c703-99d1-42e6-9856-c6506227c0f3",
+  "name": "Documentation",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "condition": "",
+          "title": "Documentation / Tutorials",
+          "imageUrl": "https://res.cloudinary.com/flippercode/image/upload/v1582023598/screenshot-www.wpmapspro.com-2020.02.18-16_25_22_wp5hil.png",
+          "buttons": [
+            {
+              "text": "Documentation",
+              "postback": "https://www.wpmapspro.com/tutorials/"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "condition": "",
+          "title": "",
+          "replies": [
+            "Go to Main Menu"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Please visit our documentation site  https://www.wpmapspro.com/"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

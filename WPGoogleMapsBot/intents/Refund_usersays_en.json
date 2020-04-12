@@ -1,0 +1,38 @@
+[
+  {
+    "id": "93d6d8e1-fedd-45e6-857f-1a3c3e9b8d6b",
+    "data": [
+      {
+        "text": "refund",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b22ac98a-3e4f-4f68-a4d5-c757c8f8e691",
+    "data": [
+      {
+        "text": "how can i get a refund",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1a85c450-7ce7-4d12-b767-3b04288ad06a",
+    "data": [
+      {
+        "text": "I want refund",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

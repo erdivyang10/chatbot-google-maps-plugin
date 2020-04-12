@@ -1,0 +1,38 @@
+[
+  {
+    "id": "27670ba8-7019-46ae-9fd9-48ca47df3946",
+    "data": [
+      {
+        "text": "your city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "be74dea9-024b-4031-9036-7efa1867f37c",
+    "data": [
+      {
+        "text": "what is your address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dace5546-c968-4c1b-97d8-55b72f81e110",
+    "data": [
+      {
+        "text": "Where are you now?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

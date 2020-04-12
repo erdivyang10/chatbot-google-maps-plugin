@@ -1,0 +1,49 @@
+{
+  "id": "db6e2a39-80e3-4dd4-aa0f-918cf350bea0",
+  "name": "company",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "company",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "condition": "",
+          "title": "Premium Wordpress Plugins by Flippercode",
+          "subtitle": "We turn catchy Ideas into Premium WordPress Plugins",
+          "imageUrl": "https://res.cloudinary.com/flippercode/image/upload/v1582181586/flippercode-website_gjcdpz.png",
+          "buttons": [
+            {
+              "text": "Click to Check our Website",
+              "postback": "https://www.flippercode.com/"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Our company name is Flippercode and you can visit here  https://www.flippercode.com/"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

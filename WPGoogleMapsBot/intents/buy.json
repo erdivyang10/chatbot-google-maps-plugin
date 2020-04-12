@@ -1,0 +1,47 @@
+{
+  "id": "0eab151e-b5a8-4888-9553-4e2323999279",
+  "name": "buy",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "buy",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "condition": "",
+          "title": "Advanced Google Maps Plugin for Wordpress",
+          "buttons": [
+            {
+              "text": "Click to Buy",
+              "postback": "https://codecanyon.net/item/advanced-google-maps-plugin-for-wordpress/5211638"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Please visit https://codecanyon.net/item/advanced-google-maps-plugin-for-wordpress/5211638"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,46 @@
+{
+  "id": "dcda1da3-b5f4-42fc-bb90-33b22f2da224",
+  "name": "city",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "condition": "",
+          "title": "We are here :)",
+          "buttons": [
+            {
+              "text": "Click to check our Location",
+              "postback": "https://goo.gl/maps/ExUoTEmbVwxSgyfp6"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "We are in \"13, Gurudhawara Colony, lalgarh Road, Bikaner, Rajasthan 334001\""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

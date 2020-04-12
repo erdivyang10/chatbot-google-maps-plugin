@@ -1,0 +1,62 @@
+[
+  {
+    "id": "cac21452-72e3-4549-a2bd-1b5c73645d7e",
+    "data": [
+      {
+        "text": "how to attach the billing account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d161eaf7-64f8-4169-9de8-6afbbdb7300d",
+    "data": [
+      {
+        "text": "referrer issue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2e6a3cc8-70cc-4cb6-a061-8819571137a8",
+    "data": [
+      {
+        "text": "how to create a referrer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "64b0be9d-f8dd-4ff2-961a-35105c82dd1a",
+    "data": [
+      {
+        "text": "api issue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "29d1cf1c-0f2b-4dea-9674-bd18148b48dd",
+    "data": [
+      {
+        "text": "how to create an api key",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

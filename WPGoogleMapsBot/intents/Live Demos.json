@@ -1,0 +1,139 @@
+{
+  "id": "12adb347-7785-460e-8214-2488dbd5ff6f",
+  "name": "Live Demos",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "condition": "",
+          "title": "Real Estate Listings",
+          "subtitle": "Displaying Real Estate Listings on Google Maps",
+          "buttons": [
+            {
+              "text": "Click to see Live demo",
+              "postback": "https://www.wpmapspro.com/example/real-estate-listings/"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "condition": "",
+          "title": "Restaurants Listing",
+          "subtitle": "Displaying Restaurants Listing on Google Maps",
+          "buttons": [
+            {
+              "text": "Click to see Live demo",
+              "postback": "https://www.wpmapspro.com/example/restaurants-listing/"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "condition": "",
+          "title": "Stores / Branches Listing",
+          "subtitle": "Displaying Stores / Branches Listing on Google Maps",
+          "buttons": [
+            {
+              "text": "Click to see Live demo",
+              "postback": "https://www.wpmapspro.com/example/stores-branches-listing/"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "condition": "",
+          "title": "Service Center Listings",
+          "subtitle": "Displaying Service Center Listings on Google Maps",
+          "buttons": [
+            {
+              "text": "Click to see Live Demo",
+              "postback": "https://www.wpmapspro.com/example/service-center-listings/"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "condition": "",
+          "title": "Events Listings",
+          "subtitle": "Displaying Events Listings on Google Maps",
+          "buttons": [
+            {
+              "text": "Click to see live demo",
+              "postback": "https://www.wpmapspro.com/example/events-listings/"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "condition": "",
+          "title": "Universities Listing",
+          "subtitle": "Displaying Universities on Google Maps",
+          "buttons": [
+            {
+              "text": "https://www.wpmapspro.com/example/universities-example/"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "condition": "",
+          "title": "View All Examples",
+          "buttons": [
+            {
+              "text": "click to see all live feature Examples",
+              "postback": "https://www.wpmapspro.com/examples/"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "condition": "",
+          "title": "",
+          "replies": [
+            "Go to Main Menu"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

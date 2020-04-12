@@ -1,0 +1,38 @@
+[
+  {
+    "id": "9a1c1c87-c7e1-4ef8-90a5-f403befbbb33",
+    "data": [
+      {
+        "text": "how to add a location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c458de15-1e81-4efb-81f3-ce61079594b7",
+    "data": [
+      {
+        "text": "where i need to insert the address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "7c482011-f870-45f1-9cc7-bf838569e8ec",
+    "data": [
+      {
+        "text": "Location is not creating",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

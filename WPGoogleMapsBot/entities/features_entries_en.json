@@ -1,0 +1,30 @@
+[
+  {
+    "value": "Create locations",
+    "synonyms": [
+      "Create locations",
+      "Create a new locations"
+    ]
+  },
+  {
+    "value": "Create Directions",
+    "synonyms": [
+      "Create Directions",
+      "You can create directions between Start and End point"
+    ]
+  },
+  {
+    "value": "Drawing",
+    "synonyms": [
+      "Drawing",
+      "Draw the shapes on google maps"
+    ]
+  },
+  {
+    "value": "Routes",
+    "synonyms": [
+      "Routes",
+      "Display Routes on google maps"
+    ]
+  }
+]

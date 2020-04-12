@@ -1,0 +1,50 @@
+[
+  {
+    "id": "86b19816-b008-4bcf-aab9-c526132d6f6a",
+    "data": [
+      {
+        "text": "what is your office timings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1372dd94-f038-483b-9bad-2ae55e260e1f",
+    "data": [
+      {
+        "text": "Is office open now",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a7b5e6dc-952f-4b42-adbe-625aa6c8c58c",
+    "data": [
+      {
+        "text": "Is your store is open",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "41540155-3cd7-460e-b3aa-60bba6fbde88",
+    "data": [
+      {
+        "text": "whats your timing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

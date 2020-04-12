@@ -1,0 +1,86 @@
+[
+  {
+    "id": "66be9b62-afac-465e-8be6-de262df82140",
+    "data": [
+      {
+        "text": "Any live example do you have",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "233e7333-f2e9-42de-b9ae-be27dd851f35",
+    "data": [
+      {
+        "text": "Location creation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "95fff061-6525-4cb2-bf13-b41caa2b4601",
+    "data": [
+      {
+        "text": "Create a location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "60ee5e3e-e259-448b-86aa-8f06420483f9",
+    "data": [
+      {
+        "text": "How can I create a map",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4fcbdc7e-9bcd-4465-87b3-6ae5101f475f",
+    "data": [
+      {
+        "text": "how google maps works",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "971d82c9-0fad-4b28-89cd-6ec3f9f0ba44",
+    "data": [
+      {
+        "text": "where is the documentation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "72a2d640-be40-4e96-8399-7c8ada6b95e7",
+    "data": [
+      {
+        "text": "where is the tutorial",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
